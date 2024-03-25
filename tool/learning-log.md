@@ -28,8 +28,6 @@ Before we get into the movements themselves, I tinkered with the orginal code, t
 To make these work I had to retype the same code over and over again. For example if I wanted to make text Bounce, I'd have to write **"animate__animated animate__bounce"**. And i'd have to do basically the same thing for every different animation. Granted it got repetitive but it was easy to understand.
 
 Also, you could go into the CSS and edit things called *keyframes*. These things made my orginal bounce animation bounce higher then it did before and made it more lively. You could also delay these animations, I don't see a point in that but it's something you're able to do
-X/X/X:
-* Text
 
 
 <!-- 
