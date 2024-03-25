@@ -20,10 +20,10 @@ I didn't relaize this on the [website](https://animate.style/) because there was
 Before we get into the movements themselves, I tinkered with the orginal code, to set up the animations and make them actually move, you need to put,
 **animate__animated animate__XXXX**, the X's is where you'd put your movements. On the website, there are a bunch of movements you can copy n paste into your code to make them move in those certain ways. I tried doing multiple like,
 
--Bounce
--Tada
--ShakeX (side to side shaking)
--ShakeY (Up and Down Shaking)
+-Bounce)
+-Tada)
+-ShakeX (side to side shaking))
+-ShakeY (Up and Down Shaking))
 
 To make these work I had to retype the same code over and over again. For example if I wanted to make text Bounce, I'd have to write **"animate__animated animate__bounce"**. And i'd have to do basically the same thing for every different animation. Granted it got repetitive but it was easy to understand.
 
