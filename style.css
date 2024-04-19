@@ -23,15 +23,16 @@
   }
 
   .old{
-text-align: right
+text-align: right;
   }
 .oldreasoning{
   background:#f0fafc;
     margin: 10px;
     padding: 10px;
-    text-align: right
+    text-align: right;
 }
 
 #timer{
   width:300px;
 }
+
