@@ -29,17 +29,19 @@ text-align: center;
 .oldreasoning{
   background:#f0fafc;
     margin: 10px;
-    padding: 10px;
-    text-align: right;
+    padding: 79px;
+    length:540px;
+    text-align: left;
 }
 
 #timer{
-  width:400px;
+  width:540px;
+  length:400px;
   align:left;
 }
 
-#Blubuddy{
-  width:20px;
+#BLubuddy{
+  width:400px;
   align:right;
 }
 
