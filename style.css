@@ -41,15 +41,15 @@ text-align: center;
 }
 
 #BLubuddy{
-  width:550px;
+  width:540px;
   length:400px;
   align:right;
 }
 
 .blureasoning{
   background:#f0fafc;
-    margin: 10px;
-    padding: 79px;
+    margin: 3px;
+    padding: 53px;
     length:400px;
     text-align: left
 }
