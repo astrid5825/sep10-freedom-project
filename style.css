@@ -35,13 +35,13 @@ text-align: center;
 }
 
 #timer{
-  width:550px;
+  width:100%;
   length:400px;
   align:left;
 }
 
 #BLubuddy{
-  width:540px;
+  width:100%;
   length:400px;
   align:right;
 }
