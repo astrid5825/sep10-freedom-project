@@ -5,6 +5,8 @@ context, I don't know why entry 5 & 6 are missing as of writing this. But I'll r
 # Expo and Feedback
 The Expo was fun, personally I was scared that the website wasn't enough but people still enjoyed my website, which is all I care about. I didn't get much feedback, but a lot of questions, which is Ok. I enjoyed answering them and showing off my ideas to people. 
 
+My main takeaway is to stick with your plan. I feel like I could've done more if I stuck with it, as well as use the tools available to me. I made my website from scratch so it looked wayy less good then the others during the Expo. Going into 11th, I need to stick by my plans and use everything available to me to make the best product I could've made. But for what its worth, my project looked ok
+
 # Elevator pitch
 I talked about..
 
