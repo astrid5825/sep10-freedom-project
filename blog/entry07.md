@@ -14,6 +14,8 @@ I talked about..
 -How BLuebuddy could've helped you
 
 # Pitch Notes
+in my notes, I wrote these down, 
+
 <-1 talk about Animate.css>
 <-2 talk about reasoning for a simple website (MOST IMPORTANT !!!!)>
 <-3 talk about code for text bounce/sections (IMPORTANT)>
