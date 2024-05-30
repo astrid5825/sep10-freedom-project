@@ -3,7 +3,7 @@
 context, I don't know why entry 5 & 6 are missing as of writing this. But I'll rewrite it when I can.
 
 # Expo and Feedback
-The Expo was fun, personally I was scared that the website wasn't enough but people still enjoyed my website, which is all I care about. I didn't get much feedback, but a lot of questions, which is Ok.
+The Expo was fun, personally I was scared that the website wasn't enough but people still enjoyed my website, which is all I care about. I didn't get much feedback, but a lot of questions, which is Ok. I enjoyed answering them and showing off my ideas to people. 
 
 # Elevator pitch
 I talked about..
