@@ -7,6 +7,7 @@ The Expo was fun, personally I was scared that the website wasn't enough but peo
 
 # Elevator pitch
 I talked about..
+
 -What BLuebuddy did
 
 -How it worked
