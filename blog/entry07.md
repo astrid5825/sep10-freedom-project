@@ -24,11 +24,17 @@ I talked about..
 in my notes, I wrote these down, 
 
 <-1 talk about Animate.css>
+
 <-2 talk about reasoning for a simple website (MOST IMPORTANT !!!!)>
+
 <-3 talk about code for text bounce/sections (IMPORTANT)>
+
 <-4 talk about design >
+
 <-5 talk about process >
+
 <-6 talk about practicality (IMPORTANT) >
+
 <-7 talk about inspo for website >
 
 [Presentation](https://docs.google.com/presentation/d/1IUTzTpRiIERNefs3Co4K2furdJ89GMkRDs_zNDe2bbA/edit)
