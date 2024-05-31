@@ -12,7 +12,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 [Product]()
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1IUTzTpRiIERNefs3Co4K2furdJ89GMkRDs_zNDe2bbA/edit#slide=id.p)
 
 ## Implications
 ##### PROS
