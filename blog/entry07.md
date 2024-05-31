@@ -1,9 +1,8 @@
 # Entry 7
-##### 5/29/24
-context, I don't know why entry 5 & 6 are missing as of writing this. But I'll rewrite it when I can.
+##### 5/31/24 woah schools almost done
 
 # Expo and Feedback
-The Expo was fun, personally I was scared that the website wasn't enough but people still enjoyed my website, which is all I care about. I didn't get much feedback, but a lot of questions, which is Ok. I enjoyed answering them and showing off my ideas to people. 
+The Expo was fun, personally I was scared that the website wasn't enough but people still enjoyed my website, which is all I care about. I didn't get much feedback, but a lot of questions, which is Ok. I enjoyed answering them and showing off my ideas to people, and seeing them interact with my website is the best thing by far in my opinion.
 
 My main takeaway is to stick with your plan. I feel like I could've done more if I stuck with it, as well as use the tools available to me. I made my website from scratch so it looked wayy less good then the others during the Expo. Going into 11th, I need to stick by my plans and use everything available to me to make the best product I could've made. But for what its worth, my project looked ok
 
