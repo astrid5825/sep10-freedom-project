@@ -6,7 +6,7 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **Baking,specifically Norwegian treats**. I'm inspired by my mother, who is Norwegian. She bakes these treats for holidays and events all the time. And I would love to pass on recepies.
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Animate.Css** in order to help me make by website.
 
 ## Links
 
@@ -16,9 +16,13 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-* 
+* My product would help people all over the world learn about more cultural foods
+* My product would help people when they need to make a lot of food for people
+* It might help chiefs in the workplace, setting a lot of timers and or quick access to recipes.
 ##### CONS
-* 
+* My product would take a lot to manufacture, it might harm the envirorment
+* It might have a recipe written wrong, giving people wrong recipes
+* It could be used to help cook illegal thing
 
 
 ## Blog
