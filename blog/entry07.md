@@ -6,6 +6,9 @@ The Expo was fun, personally I was scared that the website wasn't enough but peo
 
 My main takeaway is to stick with your plan. I feel like I could've done more if I stuck with it, as well as use the tools available to me. I made my website from scratch so it looked wayy less good then the others during the Expo. Going into 11th, I need to stick by my plans and use everything available to me to make the best product I could've made. But for what its worth, my project looked ok
 
+#In-Class presentation
+I really liked to present, so I gave it my all in my in-class presentation. My grades somewhat reflect that but there are still areas I should improve in. I didn't even realize I forgot to say "Thank you" After I presented, I'm keeping that in mind for my next presentations in all of my classes. Honestly, this was more fun then the expo was for me.
+
 # Elevator pitch
 I talked about..
 
